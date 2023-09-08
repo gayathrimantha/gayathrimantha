@@ -21,6 +21,7 @@
   <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" alt="CSS3 logo" width="3%" title='CSS3'/>
   <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript logo" width="3.5%" title='JavaScript'/>
     <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="ReactJS logo" width="3.5%" title='ReactJS'/>
+    <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Redux_Logo.png/1600px-Redux_Logo.png" alt="Redux" width="3.5%" title='Redux'/>
    <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" alt="Tailwind logo" width="3.5%" title='Tailwind CSS'/>
 <div> 
 <div> 
