@@ -38,7 +38,6 @@
 
 <div>
   <img src ="https://cdn.freebiesupply.com/logos/large/2x/mysql-logo-svg-vector.svg" alt="mysql logo" width="7%" title='MYSQL'/>
-  <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/640px-Postgresql_elephant.svg.png" alt="PostgreSQL logo" width="4%" title='PostgreSQL'/>
  <img src ="https://www.sqlservertutorial.net/wp-content/uploads/sql-server-tutorial.svg" alt="MicrosoftSQL Server logo" width="5%" title='MicrosoftSQL Server'/>
 </div>
 
