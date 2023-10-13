@@ -9,12 +9,13 @@
   <a href="https://www.linkedin.com/in/sai-gayathri-mantha-064b50179/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-
   
 </p>
 
+<p align='center'>
+  <a href="#"><img src="https://66.media.tumblr.com/7d5f9c81412c0e52fa775d6400de0ec4/tumblr_pipxaeOscY1qbyb95o8_400.gif" width="241"></a>
+</p>
 
-- 📫 How to reach me **https://www.linkedin.com/in/sai-gayathri-mantha-064b50179/**
 
 <!--<h3 align="left">Connect with me:</h3>
 <p align="left">
