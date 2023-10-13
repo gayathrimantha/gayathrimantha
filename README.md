@@ -13,7 +13,7 @@
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://66.media.tumblr.com/7d5f9c81412c0e52fa775d6400de0ec4/tumblr_pipxaeOscY1qbyb95o8_400.gif" width="241"></a>
+  <a href="#"><img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="241"></a>
 </p>
 
 
@@ -68,4 +68,6 @@
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gayathrimantha" alt="gayathrimantha" /></p>
 <br><br><br><br><br><br><br><br><br><br><br><be>
 <!--<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=gayathrimantha&show_icons=true&locale=en" alt="gayathrimantha" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gayathrimantha&" alt="gayathrimantha" /></p> --!>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gayathrimantha&" alt="gayathrimantha" /></p> -->
+
+
