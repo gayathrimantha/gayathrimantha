@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I am <a href="https://gayathrimantha.com/">Sai Gayathri Mantha</a></h1>
  
-<h2 align="center"><a href="https://github.com/gayathrimantha">Software Engineer</a>
+<h2 align="center"><a href="https://github.com/gayathrimantha">Web and Mobile Developer</a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityadanturthi&label=Profile%20views&color=0e75b6&style=flat" alt="gayathrimantha" /> </p>
 
