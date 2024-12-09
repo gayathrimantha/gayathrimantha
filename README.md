@@ -47,7 +47,7 @@
 <div>
   <img src ="https://cdn.freebiesupply.com/logos/large/2x/mysql-logo-svg-vector.svg" alt="mysql logo" width="7%" title='MYSQL'/>
  <img src ="https://www.sqlservertutorial.net/wp-content/uploads/sql-server-tutorial.svg" alt="MicrosoftSQL Server logo" width="5%" title='MicrosoftSQL Server'/>
-  <img src ="[https://www.sqlservertutorial.net/wp-content/uploads/sql-server-tutorial.svg](https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress)" alt="MicrosoftSQL Server logo" width="5%" title='Mongo DB'/>
+  <img src ="https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress" alt="MongoDB" width="5%" title='Mongo DB'/>
 </div>
 
  
