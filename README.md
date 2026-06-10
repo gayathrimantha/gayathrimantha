@@ -1,74 +1,71 @@
 <h1 align="center">Hi 👋, I am <a href="https://gayathrimantha.com/">Sai Gayathri Mantha</a></h1>
- 
-<h2 align="center"><a href="https://github.com/gayathrimantha">Web and Mobile Developer</a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adityadanturthi&label=Profile%20views&color=0e75b6&style=flat" alt="gayathrimantha" /> </p>
+<h2 align="center">Web and Mobile Developer</h2>
 
-<p align='center'>
- 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=adityadanturthi&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/sai-gayathri-mantha-064b50179/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>&nbsp;&nbsp;
-  
+  <a href="https://github.com/gayathrimantha" target="_blank">
+    <img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
-<p align='center'>
-  <a href="#"><img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="241"></a>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="241" alt="coding gif" />
 </p>
 
+---
 
-<!--<h3 align="left">Connect with me:</h3>
+### 🌐 Web Technologies
+
 <p align="left">
-<a href="https://www.linkedin.com/in/sai-gayathri-mantha-064b50179/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sai-gayathri-mantha-064b50179/" height="30" width="40" /></a>
-</p>-->
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,tailwind" alt="web tech" />
+</p>
 
-### Web Technologies
+### 📱 Mobile Technologies
 
-<div>
-  <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="HTML5 logo" width="4%" title='HTML5'/>
-  <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" alt="CSS3 logo" width="3%" title='CSS3'/>
-  <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript logo" width="3.5%" title='JavaScript'/>
-    <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="ReactJS logo" width="3.5%" title='ReactJS'/>
-    <img src ="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="Redux" width="3.5%" title='Redux'/>
-   <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" alt="Tailwind logo" width="3.5%" title='Tailwind CSS'/>
-<div> 
-<div> 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react" alt="React Native" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+</p>
 
-  
- ### Mobile Technologies
+### ⚙️ Backend & APIs
 
-<div>
-  <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="ReactJS logo" width="3.5%" title='React Native'/>
-</div>
- 
- 
-  ### Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="backend" />
+  <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" />
+</p>
 
-<div>
-  <img src ="https://cdn.freebiesupply.com/logos/large/2x/mysql-logo-svg-vector.svg" alt="mysql logo" width="7%" title='MYSQL'/>
- <img src ="https://www.sqlservertutorial.net/wp-content/uploads/sql-server-tutorial.svg" alt="MicrosoftSQL Server logo" width="5%" title='MicrosoftSQL Server'/>
-  <img src ="https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress" alt="MongoDB" width="5%" title='Mongo DB'/>
-</div>
+### 🗄️ Databases
 
- 
-### Design Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="databases" />
+  <img src="https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="MS SQL Server" />
+</p>
 
-<div>
-  <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" width="3%" title='Figma'/>
-  <img src ="https://freelogopng.com/images/all_img/1656733637logo-canva-png.png" width="4%" title='Canva'/>
-  <img src ="https://cdn.sketch.com/logo/horizontal_onetrust_trans.png" width="4%" title='Sketch'/>
- </div>
- 
- ### Code Editor
+### ☁️ Cloud & Tools
 
-<div>
-  <img src ="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" width="4%" title='Visual Studio Code'/>
-</div>
-</div>
-<br/>
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gayathrimantha" alt="gayathrimantha" /></p>
-<br><br><br><br><br><br><br><br><br><br><br><be>
-<!--<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=gayathrimantha&show_icons=true&locale=en" alt="gayathrimantha" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gayathrimantha&" alt="gayathrimantha" /></p> -->
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,vscode" alt="tools" />
+  <img src="https://img.shields.io/badge/Scaleway-4F0599?style=for-the-badge&logo=scaleway&logoColor=white" alt="Scaleway" />
+</p>
 
+### 🎨 Design Tools
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
+  <img src="https://img.shields.io/badge/Sketch-F7B500?style=for-the-badge&logo=sketch&logoColor=black" alt="Sketch" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gayathrimantha&layout=compact&theme=default" alt="top languages" />
+</p>
