@@ -28,13 +28,6 @@ Figma to shipped UI. I hold my own work to a design-led quality bar.
 
 <br>
 
-### Recent work: Hushelo
-
-A baby tracker that tells parents what to do next. One codebase per surface, all built by me.
-[hushelo.com](https://hushelo.com)
-
-<br>
-
 ### How I work
 
 I own the whole product: data model, API, web, mobile, native extensions, billing and launch. I care about the details users never notice until they break, such as sync conflicts, deep links and privacy that is real.
