@@ -1,71 +1,49 @@
-<h1 align="center">Hi 👋, I am <a href="https://gayathrimantha.com/">Sai Gayathri Mantha</a></h1>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <img src="assets/header-light.svg" width="100%" alt="Sai Gayathri Mantha. Product engineer. I build and ship complete products across web, iOS, Android and wearables, from the database schema to the last pixel.">
+</picture>
 
-<h2 align="center">Web and Mobile Developer</h2>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=adityadanturthi&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+<p>
+  <a href="https://gayathrimantha.com">gayathrimantha.com</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://www.linkedin.com/in/sai-gayathri-mantha-064b50179/">LinkedIn</a>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sai-gayathri-mantha-064b50179/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>&nbsp;&nbsp;
-  <a href="https://github.com/gayathrimantha" target="_blank">
-    <img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+<br>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="241" alt="coding gif" />
-</p>
+### What I build
 
----
+**Web apps and sites**<br>
+React, Next.js, TypeScript. Marketing sites, dashboards, admin consoles, SaaS products. Static, server-rendered, localized.
 
-### 🌐 Web Technologies
+**Mobile apps**<br>
+React Native for iOS and Android, plus native Swift and Kotlin when the platform needs it: widgets, voice assistants, store billing, push notifications.
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,tailwind" alt="web tech" />
-</p>
+**Wearables**<br>
+Apple Watch and Wear OS companion apps that stay in sync with the phone.
 
-### 📱 Mobile Technologies
+**Backends**<br>
+Node, Express, TypeScript, SQL, Redis. APIs, auth, payments, background jobs, admin tooling.
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react" alt="React Native" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
-</p>
+**Product and design**<br>
+Figma to shipped UI. I hold my own work to a design-led quality bar.
 
-### ⚙️ Backend & APIs
+<br>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="backend" />
-  <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge" alt="REST APIs" />
-  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" />
-</p>
+### Recent work: Hushelo
 
-### 🗄️ Databases
+A baby tracker that tells parents what to do next. One codebase per surface, all built by me.
+[hushelo.com](https://hushelo.com)
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="databases" />
-  <img src="https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="MS SQL Server" />
-</p>
+<br>
 
-### ☁️ Cloud & Tools
+### How I work
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,vscode" alt="tools" />
-  <img src="https://img.shields.io/badge/Scaleway-4F0599?style=for-the-badge&logo=scaleway&logoColor=white" alt="Scaleway" />
-</p>
+I own the whole product: data model, API, web, mobile, native extensions, billing and launch. I care about the details users never notice until they break, such as sync conflicts, deep links and privacy that is real.
 
-### 🎨 Design Tools
+`TypeScript` `React` `Next.js` `React Native` `Swift/SwiftUI` `Kotlin` `Node/Express` `MySQL/MariaDB` `MongoDB` `Redis` `Figma`
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
-  <img src="https://img.shields.io/badge/Sketch-F7B500?style=for-the-badge&logo=sketch&logoColor=black" alt="Sketch" />
-</p>
+<br>
 
----
+### Work with me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gayathrimantha&layout=compact&theme=default" alt="top languages" />
-</p>
+Available for web, mobile and full-stack product work.
+[Upwork](https://www.upwork.com/freelancers/~01d2cd692aefe55512) · [Email](mailto:gayathrimantha16@gmail.com)

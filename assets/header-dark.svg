@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" width="1200" height="400" role="img" aria-label="Sai Gayathri Mantha, product engineer">
+  <defs>
+    <linearGradient id="acc" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#7AA2FF"/><stop offset="1" stop-color="#C08CFF"/></linearGradient>
+    <pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#1C1F24"/></pattern>
+    <radialGradient id="fade" cx="0.78" cy="0.5" r="0.45"><stop offset="0" stop-color="#fff"/><stop offset="1" stop-color="#000"/></radialGradient>
+    <mask id="m"><rect width="1200" height="400" fill="url(#fade)"/></mask>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#7AA2FF" stop-opacity="0.16"/><stop offset="1" stop-color="#7AA2FF" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1200" height="400" rx="16" fill="#0A0B0D"/>
+  <rect width="1200" height="400" fill="url(#grid)" mask="url(#m)"/>
+  <ellipse cx="980" cy="210" rx="260" ry="190" fill="url(#glow)"/>
+  <rect x="0.5" y="0.5" width="1199" height="399" rx="15.5" fill="none" stroke="#2A2E35"/>
+
+  <g font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="13" letter-spacing="2.6" fill="#8B919A">
+    <circle cx="84" cy="87" r="4" fill="url(#acc)"/>
+    <text x="98" y="92">PRODUCT ENGINEER</text>
+  </g>
+  <text x="78" y="168" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="62" font-weight="600" letter-spacing="-1.8" fill="#EDEEF0">Sai Gayathri Mantha</text>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="20" fill="#8B919A">
+    <text x="80" y="214">I build and ship complete products across web, iOS, Android</text>
+    <text x="80" y="244">and wearables, from the database schema to the last pixel.</text>
+  </g>
+  <line x1="80" y1="300" x2="740" y2="300" stroke="#2A2E35"/>
+  <text xml:space="preserve" x="80" y="334" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="12.5" letter-spacing="2.4" fill="#8B919A">WEB<tspan fill="#2A2E35">   /   </tspan>iOS<tspan fill="#2A2E35">   /   </tspan>ANDROID<tspan fill="#2A2E35">   /   </tspan>WEARABLES<tspan fill="#2A2E35">   /   </tspan>BACKEND</text>
+
+  <g stroke-width="1.5" fill="none">
+    <!-- browser -->
+    <rect x="828" y="62" width="300" height="176" rx="12" fill="#111317" stroke="#2A2E35"/>
+    <line x1="828" y1="92" x2="1128" y2="92" stroke="#2A2E35"/>
+    <circle cx="848" cy="77" r="4" fill="#2A2E35" stroke="none"/><circle cx="862" cy="77" r="4" fill="#2A2E35" stroke="none"/><circle cx="876" cy="77" r="4" fill="#2A2E35" stroke="none"/>
+    <rect x="896" y="71" width="150" height="12" rx="6" fill="#1C1F24" stroke="none"/>
+    <rect x="848" y="112" width="90" height="8" rx="4" fill="#2A2E35" stroke="none"/>
+    <rect x="848" y="128" width="60" height="8" rx="4" fill="#1C1F24" stroke="none"/>
+    <path d="M848 206 C880 198 892 166 922 172 S966 204 996 184 S1040 136 1070 144" stroke="url(#acc)" stroke-width="2.2" stroke-linecap="round"/>
+    <line x1="848" y1="220" x2="1070" y2="220" stroke="#2A2E35"/>
+    <!-- phone -->
+    <rect x="1018" y="150" width="122" height="226" rx="22" fill="#111317" stroke="#2A2E35"/>
+    <rect x="1060" y="161" width="38" height="9" rx="4.5" fill="#2A2E35" stroke="none"/>
+    <rect x="1034" y="190" width="58" height="8" rx="4" fill="#2A2E35" stroke="none"/>
+    <rect x="1034" y="212" width="90" height="38" rx="9" fill="url(#acc)" stroke="none" opacity="0.9"/>
+    <rect x="1034" y="262" width="90" height="22" rx="6" fill="#1C1F24" stroke="none"/>
+    <rect x="1034" y="292" width="90" height="22" rx="6" fill="#1C1F24" stroke="none"/>
+    <rect x="1034" y="322" width="90" height="22" rx="6" fill="#1C1F24" stroke="none"/>
+    <!-- watch -->
+    <rect x="908" y="262" width="56" height="30" rx="6" fill="#1C1F24" stroke="none"/>
+    <rect x="908" y="356" width="56" height="30" rx="6" fill="#1C1F24" stroke="none"/>
+    <rect x="892" y="282" width="88" height="96" rx="26" fill="#111317" stroke="#2A2E35"/>
+    <circle cx="936" cy="330" r="26" stroke="#1C1F24" stroke-width="6"/>
+    <path d="M936 304 A26 26 0 1 1 911 337" stroke="url(#acc)" stroke-width="6" stroke-linecap="round"/>
+  </g>
+</svg>
